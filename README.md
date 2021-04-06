@@ -1,4 +1,4 @@
-##ENZOAPP website demo##
+# Enzoapp website demo
 
 HTML, SASS/CSS, JavaScript
 Images by unDraw.co
